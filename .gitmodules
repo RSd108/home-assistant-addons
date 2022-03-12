@@ -1,6 +1,9 @@
-[submodule "axpert_cmd"]
-	path = axpert_cmd
-	url = https://github.com/RSd108/axpert_cmd.git
 [submodule "hassio-axpert"]
 	path = hassio-axpert
 	url = https://github.com/RSd108/hassio-axpert.git
+	branch = main
+[submodule "axpert_cmd"]
+	path = axpert_cmd
+	url = https://github.com/RSd108/axpert_cmd.git
+[submodule "axpert_cmd/"]
+	branch = main
